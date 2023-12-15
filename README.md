@@ -27,8 +27,8 @@ Desenvolver uma aplicação de e-commerce em Java que permita aos usuários real
 | :---------- | :--------- | :------------------------------------------ |
 | `id`      | `string` | **ID produto**.  |
 | `name`      | `string` | **Nome produto**. |
-| `price`      | `string` | **Preço produto**. |
-| `quantity`      | `string` | **Quantidade em estoque do produto**. |
+| `price`      | `double` | **Preço produto**. |
+| `quantity`      | `integer` | **Quantidade em estoque do produto**. |
 
 
 ## Autores

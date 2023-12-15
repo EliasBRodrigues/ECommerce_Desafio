@@ -1,7 +1,7 @@
 
 # ECommerce_Desafio
 
-Desenvolver uma aplicação de e-commerce em Java que permita aos usuários realizar compras. A aplicação deve fornecer funcionalidades básicas de um e-commerce, incluindo a exibição de produtos, adição ao carrinho, processamento de pedidos e gerenciamento de estoque.
+Desenvolver uma aplicação de e-commerce em Java que permita aos usuários realizar compras. A aplicação deve fornecer funcionalidades básicas de um e-commerce, incluindo a exibição de produtos, adição ao carrinho, processamento de pedidos e gerenciamento de estoque  utilizando banco de dados.
 
 
 

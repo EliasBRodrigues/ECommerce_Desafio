@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "648b4c14b862ddd596fbfb71"
+  },
+  "nome": "ESPONJA",
+  "preço": 2.99,
+  "quantidade": 15
+},
+{
+  "_id": {
+    "$oid": "648b4c40b862ddd596fbfb72"
+  },
+  "nome": "DETERGENTE",
+  "preço": 4.99,
+  "quantidade": 20
+},
+{
+  "_id": {
+    "$oid": "648b4c51b862ddd596fbfb73"
+  },
+  "nome": "SALGADINHO",
+  "preço": 1.99,
+  "quantidade": 20
+},
+{
+  "_id": {
+    "$oid": "648b4c63b862ddd596fbfb74"
+  },
+  "nome": "DANONE",
+  "preço": 5.99,
+  "quantidade": 18
+},
+{
+  "_id": {
+    "$oid": "648b5345b862ddd596fbfb75"
+  },
+  "nome": "ARROZ",
+  "preço": 19.99,
+  "quantidade": 10
+},
+{
+  "_id": {
+    "$oid": "648b53a4b862ddd596fbfb76"
+  },
+  "nome": "SUCRILHOS",
+  "preço": 9.99,
+  "quantidade": 15
+},
+{
+  "_id": {
+    "$oid": "648b53cab862ddd596fbfb77"
+  },
+  "nome": "KINDER OVO",
+  "preço": 23.99,
+  "quantidade": 10
+},
+{
+  "_id": {
+    "$oid": "648b53eab862ddd596fbfb78"
+  },
+  "nome": "BISNAGUINHA",
+  "preço": 8.99,
+  "quantidade": 20
+},
+{
+  "_id": {
+    "$oid": "648b541cb862ddd596fbfb79"
+  },
+  "nome": "SABONETE",
+  "preço": 3.59,
+  "quantidade": 19
+},
+{
+  "_id": {
+    "$oid": "648b544db862ddd596fbfb7a"
+  },
+  "nome": "SHAMPOO",
+  "preço": 15.99,
+  "quantidade": 14
+}]

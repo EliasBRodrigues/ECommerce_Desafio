@@ -9,6 +9,12 @@ Desenvolver uma aplicação de e-commerce em Java que permita aos usuários real
 
 **Back-end:** Java, MongoDB.
 
+## ⚠️ Dependências
+**Instale o MongoDB Compass** em sua máquina.
+
+**MongoDB Compass** `https://www.mongodb.com/products/tools/compass`
+
+**Downloads** `https://www.mongodb.com/try/download/compass`
 
 ## :pushpin: Funcionalidades
 
